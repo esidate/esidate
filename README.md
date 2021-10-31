@@ -69,6 +69,7 @@
 ### My to read book list
 
 <!-- GOODREADS-LIST-TO-READ:START -->
+- [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://www.goodreads.com/review/show/4314778517?utm_medium=api&utm_source=rss) by Bilgin Ibryam (⭐️4.3)
 <!-- GOODREADS-LIST-TO-READ:END -->
 
 <!-- ## Notable repositories
