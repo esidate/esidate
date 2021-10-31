@@ -55,6 +55,7 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST:START -->
+- [Lean Analytics: The Complete Guide to the Systematic Method for the Use of Data to Manage and Build a Better and Faster Startup Business by Cutting Costs and Adding Value to the Development Process](https://www.goodreads.com/review/show/4314700991?utm_medium=api&utm_source=rss) by Josh Wright (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
 
 <!-- ## Notable repositories
