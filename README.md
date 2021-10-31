@@ -23,7 +23,7 @@
 ![Laravel](https://img.shields.io/badge/laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-white.svg?style=for-the-badge&logo=mysql&logoColor=2300f)
+![MySQL](https://img.shields.io/badge/mysql-eeeeee.svg?style=for-the-badge&logo=mysql&logoColor=2300f)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
