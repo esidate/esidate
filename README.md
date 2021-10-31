@@ -50,6 +50,13 @@
 ![Scrum](https://img.shields.io/badge/Scrum-3F556D?style=for-the-badge)
 ![Lean](https://img.shields.io/badge/Lean-f1f1f1?style=for-the-badge)
 
+## Readings
+
+### Books I'm currently reading
+
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
 <!-- ## Notable repositories
 
 ### Bla bla bla
