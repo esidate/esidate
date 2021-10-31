@@ -55,6 +55,7 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST-CURRENTLY-READING:START -->
+- [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.goodreads.com/review/show/4315023869?utm_medium=api&utm_source=rss) by Joshua Picolet (⭐️4.5)
 - [The Art of Deception: Controlling the Human Element of Security](https://www.goodreads.com/review/show/4314754372?utm_medium=api&utm_source=rss) by Kevin D. Mitnick (⭐️3.79)
 - [Lean Analytics: The Complete Guide to the Systematic Method for the Use of Data to Manage and Build a Better and Faster Startup Business by Cutting Costs and Adding Value to the Development Process](https://www.goodreads.com/review/show/4314700991?utm_medium=api&utm_source=rss) by Josh Wright (⭐️4.33)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
