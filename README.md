@@ -69,6 +69,10 @@
 ### My to read book list
 
 <!-- GOODREADS-LIST-TO-READ:START -->
+- [Microservices Security in Action](https://www.goodreads.com/review/show/4315033971?utm_medium=api&utm_source=rss) by Prabath Siriwardena (⭐️4.29)
+- [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.goodreads.com/review/show/4315031831?utm_medium=api&utm_source=rss) by Heather  Adkins (⭐️3.8)
+- [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.goodreads.com/review/show/4315031018?utm_medium=api&utm_source=rss) by Betsy Beyer (⭐️4.34)
+- [AI as a Service: Serverless machine learning with AWS](https://www.goodreads.com/review/show/4315029203?utm_medium=api&utm_source=rss) by Peter Elger (⭐️4)
 - [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://www.goodreads.com/review/show/4314778517?utm_medium=api&utm_source=rss) by Bilgin Ibryam (⭐️4.3)
 <!-- GOODREADS-LIST-TO-READ:END -->
 
