@@ -69,7 +69,7 @@
 - [Thus Spoke Zarathustra](https://www.goodreads.com/review/show/4379382077?utm_medium=api&utm_source=rss) by Friedrich Nietzsche (⭐️4.07)
 - [The Stranger](https://www.goodreads.com/review/show/4379381393?utm_medium=api&utm_source=rss) by Albert Camus (⭐️4)
 - [Psychopathologie de la Vie Quotidienne](https://www.goodreads.com/review/show/4315021299?utm_medium=api&utm_source=rss) by Sigmund Freud (⭐️3.59)
-- [Kubernetes: Up &amp; Running](https://www.goodreads.com/review/show/4314755263?utm_medium=api&utm_source=rss) by Kelsey Hightower (⭐️4)
+- [Kubernetes: Up &amp; Running](https://www.goodreads.com/review/show/4314755263?utm_medium=api&utm_source=rss) by Kelsey Hightower (⭐️4.01)
 <!-- GOODREADS-LIST-READ:END -->
 
 ### My to read book list
