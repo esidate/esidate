@@ -79,7 +79,7 @@
 - [Architecting for Scale: High Availability for Your Growing Applications](https://www.goodreads.com/review/show/4315099800?utm_medium=api&utm_source=rss) by Lee Atchison (⭐️3.53)
 - [Fundamentals of Organizational Behavior](https://www.goodreads.com/review/show/4315083491?utm_medium=api&utm_source=rss) by Andrew J. DuBrin (⭐️4.26)
 - [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes](https://www.goodreads.com/review/show/4315074262?utm_medium=api&utm_source=rss) by Brendan Burns (⭐️3.97)
-- [Microservices Security in Action](https://www.goodreads.com/review/show/4315033971?utm_medium=api&utm_source=rss) by Prabath Siriwardena (⭐️4.27)
+- [Microservices Security in Action](https://www.goodreads.com/review/show/4315033971?utm_medium=api&utm_source=rss) by Prabath Siriwardena (⭐️4.29)
 - [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.goodreads.com/review/show/4315031831?utm_medium=api&utm_source=rss) by Heather  Adkins (⭐️3.8)
 - [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.goodreads.com/review/show/4315031018?utm_medium=api&utm_source=rss) by Betsy Beyer (⭐️4.35)
 - [AI as a Service: Serverless machine learning with AWS](https://www.goodreads.com/review/show/4315029203?utm_medium=api&utm_source=rss) by Peter Elger (⭐️4)
