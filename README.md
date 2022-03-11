@@ -59,7 +59,7 @@
 - [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.goodreads.com/review/show/4315023869?utm_medium=api&utm_source=rss) by Joshua Picolet (⭐️4.45)
 - [The Art of Deception: Controlling the Human Element of Security](https://www.goodreads.com/review/show/4314754372?utm_medium=api&utm_source=rss) by Kevin D. Mitnick (⭐️3.78)
 - [Lean Analytics: The Complete Guide to the Systematic Method for the Use of Data to Manage and Build a Better and Faster Startup Business by Cutting Costs and Adding Value to the Development Process](https://www.goodreads.com/review/show/4314700991?utm_medium=api&utm_source=rss) by Josh Wright (⭐️4.33)
-- [The Parallel Entrepreneur: How to start and run B2B businesses while keeping your day job](https://www.goodreads.com/review/show/4359905656?utm_medium=api&utm_source=rss) by Ryan Buckley (⭐️4.11)
+- [The Parallel Entrepreneur: How to start and run B2B businesses while keeping your day job](https://www.goodreads.com/review/show/4359905656?utm_medium=api&utm_source=rss) by Ryan Buckley (⭐️4.09)
 - [Terraform: Up & Running: Writing Infrastructure as Code](https://www.goodreads.com/review/show/4335457671?utm_medium=api&utm_source=rss) by Yevgeniy Brikman (⭐️4.29)
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️4)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
