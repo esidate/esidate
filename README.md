@@ -72,6 +72,8 @@
 - [The Stranger](https://www.goodreads.com/review/show/4379381393?utm_medium=api&utm_source=rss) by Albert Camus (⭐️4.01)
 - [Psychopathologie de la Vie Quotidienne](https://www.goodreads.com/review/show/4315021299?utm_medium=api&utm_source=rss) by Sigmund Freud (⭐️3.61)
 - [Kubernetes: Up &amp; Running](https://www.goodreads.com/review/show/4314755263?utm_medium=api&utm_source=rss) by Kelsey Hightower (⭐️4.01)
+- [Lean Analytics: The Complete Guide to the Systematic Method for the Use of Data to Manage and Build a Better and Faster Startup Business by Cutting Costs and Adding Value to the Development Process](https://www.goodreads.com/review/show/4314700991?utm_medium=api&utm_source=rss) by Josh Wright (⭐️4.33)
+- [The Art of Deception: Controlling the Human Element of Security](https://www.goodreads.com/review/show/4314754372?utm_medium=api&utm_source=rss) by Kevin D. Mitnick (⭐️3.78)
 <!-- GOODREADS-LIST-READ:END -->
 
 ### My to read book list
