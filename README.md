@@ -56,11 +56,10 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST-CURRENTLY-READING:START -->
-- [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.goodreads.com/review/show/4315023869?utm_medium=api&utm_source=rss) by Joshua Picolet (⭐️4.45)
-- [The Art of Deception: Controlling the Human Element of Security](https://www.goodreads.com/review/show/4314754372?utm_medium=api&utm_source=rss) by Kevin D. Mitnick (⭐️3.78)
-- [Lean Analytics: The Complete Guide to the Systematic Method for the Use of Data to Manage and Build a Better and Faster Startup Business by Cutting Costs and Adding Value to the Development Process](https://www.goodreads.com/review/show/4314700991?utm_medium=api&utm_source=rss) by Josh Wright (⭐️4.33)
-- [The Parallel Entrepreneur: How to start and run B2B businesses while keeping your day job](https://www.goodreads.com/review/show/4359905656?utm_medium=api&utm_source=rss) by Ryan Buckley (⭐️4.09)
-- [Terraform: Up & Running: Writing Infrastructure as Code](https://www.goodreads.com/review/show/4335457671?utm_medium=api&utm_source=rss) by Yevgeniy Brikman (⭐️4.29)
+- [Learning DevSecOps](https://www.goodreads.com/review/show/4619251070?utm_medium=api&utm_source=rss) by Michelle Ribeiro (⭐️)
+- [Practical Security Automation and Testing: Tools and techniques for automated security scanning and testing in DevSecOps](https://www.goodreads.com/review/show/4619194067?utm_medium=api&utm_source=rss) by Tony Hsiang-Chih Hsu (⭐️4)
+- [Kubernetes Security and Observability: A Holistic Approach to Securing Containers and Cloud Native Applications](https://www.goodreads.com/review/show/4619193142?utm_medium=api&utm_source=rss) by Brendan Creane (⭐️)
+- [Container Security: Fundamental Technology Concepts That Protect Containerized Applications](https://www.goodreads.com/review/show/4619189465?utm_medium=api&utm_source=rss) by Liz Rice (⭐️4.56)
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️4)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
 
