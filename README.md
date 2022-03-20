@@ -88,7 +88,7 @@
 - [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.goodreads.com/review/show/4315031018?utm_medium=api&utm_source=rss) by Betsy Beyer (⭐️4.34)
 - [AI as a Service: Serverless machine learning with AWS](https://www.goodreads.com/review/show/4315029203?utm_medium=api&utm_source=rss) by Peter Elger (⭐️4)
 - [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://www.goodreads.com/review/show/4314778517?utm_medium=api&utm_source=rss) by Bilgin Ibryam (⭐️4.3)
-- [Learning DevSecOps](https://www.goodreads.com/review/show/4619251070?utm_medium=api&utm_source=rss) by Michelle Ribeiro (⭐️)
+- [Implementing DevSecOps with Docker and Kubernetes: An Experiential Guide to Operate in the DevOps Environment for Securing and Monitoring Container Applications](https://www.goodreads.com/review/show/4619219467?utm_medium=api&utm_source=rss) by José Manuel Ortega Candel (⭐️)
 <!-- GOODREADS-LIST-TO-READ:END -->
 
 <!-- ## Notable repositories
