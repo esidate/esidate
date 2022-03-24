@@ -59,7 +59,6 @@
 - [Learning DevSecOps](https://www.goodreads.com/review/show/4619251070?utm_medium=api&utm_source=rss) by Michelle Ribeiro (⭐️4)
 - [Practical Security Automation and Testing: Tools and techniques for automated security scanning and testing in DevSecOps](https://www.goodreads.com/review/show/4619194067?utm_medium=api&utm_source=rss) by Tony Hsiang-Chih Hsu (⭐️4)
 - [Kubernetes Security and Observability: A Holistic Approach to Securing Containers and Cloud Native Applications](https://www.goodreads.com/review/show/4619193142?utm_medium=api&utm_source=rss) by Brendan Creane (⭐️)
-- [Container Security: Fundamental Technology Concepts That Protect Containerized Applications](https://www.goodreads.com/review/show/4619189465?utm_medium=api&utm_source=rss) by Liz Rice (⭐️4.56)
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️4)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
 
