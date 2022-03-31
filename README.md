@@ -78,6 +78,7 @@
 ### My to read book list
 
 <!-- GOODREADS-LIST-TO-READ:START -->
+- [Securing DevOps: Security in the Cloud](https://www.goodreads.com/review/show/4639791970?utm_medium=api&utm_source=rss) by Julien Vehent (⭐️4.38)
 - [The Project Management Handbook: Simplified Agile, Scrum and DevOps for Beginners](https://www.goodreads.com/review/show/4315101333?utm_medium=api&utm_source=rss) by Jack C. Stanley (⭐️4)
 - [Architecting for Scale: High Availability for Your Growing Applications](https://www.goodreads.com/review/show/4315099800?utm_medium=api&utm_source=rss) by Lee Atchison (⭐️3.52)
 - [Fundamentals of Organizational Behavior](https://www.goodreads.com/review/show/4315083491?utm_medium=api&utm_source=rss) by Andrew J. DuBrin (⭐️4.29)
@@ -87,7 +88,6 @@
 - [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.goodreads.com/review/show/4315031018?utm_medium=api&utm_source=rss) by Betsy Beyer (⭐️4.34)
 - [AI as a Service: Serverless machine learning with AWS](https://www.goodreads.com/review/show/4315029203?utm_medium=api&utm_source=rss) by Peter Elger (⭐️4)
 - [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://www.goodreads.com/review/show/4314778517?utm_medium=api&utm_source=rss) by Bilgin Ibryam (⭐️4.3)
-- [Implementing DevSecOps with Docker and Kubernetes: An Experiential Guide to Operate in the DevOps Environment for Securing and Monitoring Container Applications](https://www.goodreads.com/review/show/4619219467?utm_medium=api&utm_source=rss) by José Manuel Ortega Candel (⭐️)
 <!-- GOODREADS-LIST-TO-READ:END -->
 
 <!-- ## Notable repositories
