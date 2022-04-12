@@ -65,7 +65,7 @@
 
 <!-- GOODREADS-LIST-READ:START -->
 - [Learning DevSecOps](https://www.goodreads.com/review/show/4619251070?utm_medium=api&utm_source=rss) by Michelle Ribeiro (⭐️3.5)
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.goodreads.com/review/show/4314756395?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.72)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.goodreads.com/review/show/4314756395?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.73)
 - [Container Security: Fundamental Technology Concepts That Protect Containerized Applications](https://www.goodreads.com/review/show/4619189465?utm_medium=api&utm_source=rss) by Liz Rice (⭐️4.55)
 - [Thus Spoke Zarathustra](https://www.goodreads.com/review/show/4379382077?utm_medium=api&utm_source=rss) by Friedrich Nietzsche (⭐️4.08)
 - [The Stranger](https://www.goodreads.com/review/show/4379381393?utm_medium=api&utm_source=rss) by Albert Camus (⭐️4.01)
