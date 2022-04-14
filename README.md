@@ -56,7 +56,6 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST-CURRENTLY-READING:START -->
-- [Practical Security Automation and Testing: Tools and techniques for automated security scanning and testing in DevSecOps](https://www.goodreads.com/review/show/4619194067?utm_medium=api&utm_source=rss) by Tony Hsiang-Chih Hsu (⭐️4)
 - [Kubernetes Security and Observability: A Holistic Approach to Securing Containers and Cloud Native Applications](https://www.goodreads.com/review/show/4619193142?utm_medium=api&utm_source=rss) by Brendan Creane (⭐️)
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
