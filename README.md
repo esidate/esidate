@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=esidate&color=brightgreen)
 
-### Hi there 👋 I'm a DevOps engineer. I'm passionate about Software architecture, AI, Cybersecurity and Startups.
+### Hi there 👋 I'm a DevOps engineer. I'm passionate about Soluton/Software architecture, AI, Cybersecurity and Startups.
 
 [![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/el-mahdi-sidate/)
 [![ProtonMail email](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:esidate@protonmail.com)
