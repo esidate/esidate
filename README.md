@@ -79,7 +79,7 @@
 
 <!-- GOODREADS-LIST-TO-READ:START -->
 - [Securing DevOps: Security in the Cloud](https://www.goodreads.com/review/show/4639791970?utm_medium=api&utm_source=rss) by Julien Vehent (⭐️4.38)
-- [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/4668488810?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️4)
+- [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/4668488810?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️3.97)
 - [DevOps and Containers Security: Security and monitoring in Docker Containers](https://www.goodreads.com/review/show/4668386069?utm_medium=api&utm_source=rss) by José Manuel Ortega Candel (⭐️5)
 - [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.goodreads.com/review/show/4668352641?utm_medium=api&utm_source=rss) by Neal Ford (⭐️4.45)
 - [Architecting for Scale: High Availability for Your Growing Applications](https://www.goodreads.com/review/show/4315099800?utm_medium=api&utm_source=rss) by Lee Atchison (⭐️3.52)
