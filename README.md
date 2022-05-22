@@ -86,7 +86,7 @@
 - [Fundamentals of Organizational Behavior](https://www.goodreads.com/review/show/4315083491?utm_medium=api&utm_source=rss) by Andrew J. DuBrin (⭐️4.29)
 - [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes](https://www.goodreads.com/review/show/4315074262?utm_medium=api&utm_source=rss) by Brendan Burns (⭐️3.98)
 - [Microservices Security in Action](https://www.goodreads.com/review/show/4315033971?utm_medium=api&utm_source=rss) by Prabath Siriwardena (⭐️4.18)
-- [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.goodreads.com/review/show/4315031831?utm_medium=api&utm_source=rss) by Heather  Adkins (⭐️3.87)
+- [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.goodreads.com/review/show/4315031831?utm_medium=api&utm_source=rss) by Heather  Adkins (⭐️3.88)
 - [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.goodreads.com/review/show/4315031018?utm_medium=api&utm_source=rss) by Betsy Beyer (⭐️4.33)
 <!-- GOODREADS-LIST-TO-READ:END -->
 
