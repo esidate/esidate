@@ -69,7 +69,7 @@
 - [Practical Security Automation and Testing: Tools and techniques for automated security scanning and testing in DevSecOps](https://www.goodreads.com/review/show/4619194067?utm_medium=api&utm_source=rss) by Tony Hsiang-Chih Hsu (⭐️4)
 - [Thus Spoke Zarathustra](https://www.goodreads.com/review/show/4379382077?utm_medium=api&utm_source=rss) by Friedrich Nietzsche (⭐️4.08)
 - [The Stranger](https://www.goodreads.com/review/show/4379381393?utm_medium=api&utm_source=rss) by Albert Camus (⭐️4.01)
-- [Psychopathologie de la Vie Quotidienne](https://www.goodreads.com/review/show/4315021299?utm_medium=api&utm_source=rss) by Sigmund Freud (⭐️3.59)
+- [Psychopathologie de la Vie Quotidienne](https://www.goodreads.com/review/show/4315021299?utm_medium=api&utm_source=rss) by Sigmund Freud (⭐️3.58)
 - [Kubernetes: Up &amp; Running](https://www.goodreads.com/review/show/4314755263?utm_medium=api&utm_source=rss) by Kelsey Hightower (⭐️4.01)
 - [Lean Analytics: The Complete Guide to the Systematic Method for the Use of Data to Manage and Build a Better and Faster Startup Business by Cutting Costs and Adding Value to the Development Process](https://www.goodreads.com/review/show/4314700991?utm_medium=api&utm_source=rss) by Josh Wright (⭐️4.33)
 <!-- GOODREADS-LIST-READ:END -->
