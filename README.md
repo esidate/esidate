@@ -79,7 +79,6 @@
 
 <!-- GOODREADS-LIST-TO-READ:START -->
 - [Securing DevOps: Security in the Cloud](https://www.goodreads.com/review/show/4639791970?utm_medium=api&utm_source=rss) by Julien Vehent (⭐️4.39)
-- [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/4668488810?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️3.98)
 - [DevOps and Containers Security: Security and monitoring in Docker Containers](https://www.goodreads.com/review/show/4668386069?utm_medium=api&utm_source=rss) by José Manuel Ortega Candel (⭐️5)
 - [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.goodreads.com/review/show/4668352641?utm_medium=api&utm_source=rss) by Neal Ford (⭐️4.42)
 - [Architecting for Scale: High Availability for Your Growing Applications](https://www.goodreads.com/review/show/4315099800?utm_medium=api&utm_source=rss) by Lee Atchison (⭐️3.52)
@@ -88,6 +87,7 @@
 - [Microservices Security in Action](https://www.goodreads.com/review/show/4315033971?utm_medium=api&utm_source=rss) by Prabath Siriwardena (⭐️4.2)
 - [Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems](https://www.goodreads.com/review/show/4315031831?utm_medium=api&utm_source=rss) by Heather  Adkins (⭐️3.88)
 - [The Site Reliability Workbook: Practical Ways to Implement SRE](https://www.goodreads.com/review/show/4315031018?utm_medium=api&utm_source=rss) by Betsy Beyer (⭐️4.33)
+- [Implementing DevSecOps with Docker and Kubernetes: An Experiential Guide to Operate in the DevOps Environment for Securing and Monitoring Container Applications](https://www.goodreads.com/review/show/4619219467?utm_medium=api&utm_source=rss) by José Manuel Ortega Candel (⭐️)
 <!-- GOODREADS-LIST-TO-READ:END -->
 
 <!-- ## Notable repositories
