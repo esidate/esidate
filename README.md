@@ -80,7 +80,7 @@
 <!-- GOODREADS-LIST-TO-READ:START -->
 - [Securing DevOps: Security in the Cloud](https://www.goodreads.com/review/show/4639791970?utm_medium=api&utm_source=rss) by Julien Vehent (⭐️4.39)
 - [DevOps and Containers Security: Security and monitoring in Docker Containers](https://www.goodreads.com/review/show/4668386069?utm_medium=api&utm_source=rss) by José Manuel Ortega Candel (⭐️5)
-- [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.goodreads.com/review/show/4668352641?utm_medium=api&utm_source=rss) by Neal Ford (⭐️4.42)
+- [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.goodreads.com/review/show/4668352641?utm_medium=api&utm_source=rss) by Neal Ford (⭐️4.4)
 - [Architecting for Scale: High Availability for Your Growing Applications](https://www.goodreads.com/review/show/4315099800?utm_medium=api&utm_source=rss) by Lee Atchison (⭐️3.51)
 - [Fundamentals of Organizational Behavior](https://www.goodreads.com/review/show/4315083491?utm_medium=api&utm_source=rss) by Andrew J. DuBrin (⭐️4.29)
 - [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes](https://www.goodreads.com/review/show/4315074262?utm_medium=api&utm_source=rss) by Brendan Burns (⭐️3.98)
