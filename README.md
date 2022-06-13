@@ -56,7 +56,7 @@
 ### Books I'm currently reading
 
 <!-- GOODREADS-LIST-CURRENTLY-READING:START -->
-- [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/4668488810?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️3.98)
+- [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/4668488810?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️4)
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
 
