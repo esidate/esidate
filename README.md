@@ -73,7 +73,7 @@
 - [Thus Spoke Zarathustra](https://www.goodreads.com/review/show/4379382077?utm_medium=api&utm_source=rss) by Friedrich Nietzsche (⭐️4.08)
 - [The Stranger](https://www.goodreads.com/review/show/4379381393?utm_medium=api&utm_source=rss) by Albert Camus (⭐️4.01)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.goodreads.com/review/show/4314756395?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.73)
-- [Psychopathologie de la Vie Quotidienne](https://www.goodreads.com/review/show/4315021299?utm_medium=api&utm_source=rss) by Sigmund Freud (⭐️3.59)
+- [Psychopathologie de la Vie Quotidienne](https://www.goodreads.com/review/show/4315021299?utm_medium=api&utm_source=rss) by Sigmund Freud (⭐️3.58)
 <!-- GOODREADS-LIST-READ:END -->
 
 ### My to read book list
