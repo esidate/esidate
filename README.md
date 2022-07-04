@@ -57,7 +57,6 @@
 
 <!-- GOODREADS-LIST-CURRENTLY-READING:START -->
 - [Securing DevOps: Security in the Cloud](https://www.goodreads.com/review/show/4639791970?utm_medium=api&utm_source=rss) by Julien Vehent (⭐️4.4)
-- [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/4668488810?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️3.95)
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
 
