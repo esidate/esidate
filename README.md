@@ -24,6 +24,9 @@
 
 ![Laravel](https://img.shields.io/badge/laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-00718B.svg?style=for-the-badge&logo=mysql&logoColor=EA8C10)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
