@@ -88,7 +88,7 @@
 - [Terraform: Up & Running: Writing Infrastructure as Code](https://www.goodreads.com/review/show/4335457671?utm_medium=api&utm_source=rss) by Yevgeniy Brikman (⭐️4.26)
 - [The Parallel Entrepreneur: How to start and run B2B businesses while keeping your day job](https://www.goodreads.com/review/show/4359905656?utm_medium=api&utm_source=rss) by Ryan Buckley (⭐️4.09)
 - [Distributed Tracing in Practice: Instrumenting, Analyzing, and Debugging Microservices](https://www.goodreads.com/review/show/4335467161?utm_medium=api&utm_source=rss) by Austin Parker (⭐️4.21)
-- [Architecting for Scale: High Availability for Your Growing Applications](https://www.goodreads.com/review/show/4315099800?utm_medium=api&utm_source=rss) by Lee Atchison (⭐️3.51)
+- [Architecting for Scale: High Availability for Your Growing Applications](https://www.goodreads.com/review/show/4315099800?utm_medium=api&utm_source=rss) by Lee Atchison (⭐️3.53)
 - [Fundamentals of Organizational Behavior](https://www.goodreads.com/review/show/4315083491?utm_medium=api&utm_source=rss) by Andrew J. DuBrin (⭐️4.31)
 - [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes](https://www.goodreads.com/review/show/4315074262?utm_medium=api&utm_source=rss) by Brendan Burns (⭐️3.98)
 - [Microservices Security in Action](https://www.goodreads.com/review/show/4315033971?utm_medium=api&utm_source=rss) by Prabath Siriwardena (⭐️4.17)
