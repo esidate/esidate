@@ -83,7 +83,7 @@
 ### My to read book list
 
 <!-- GOODREADS-LIST-TO-READ:START -->
-- [GitOps and Kubernetes](https://www.goodreads.com/review/show/4669351759?utm_medium=api&utm_source=rss) by Billy Yuen (⭐️3.43)
+- [GitOps and Kubernetes](https://www.goodreads.com/review/show/4669351759?utm_medium=api&utm_source=rss) by Billy Yuen (⭐️3.45)
 - [DevOps and Containers Security: Security and monitoring in Docker Containers](https://www.goodreads.com/review/show/4668386069?utm_medium=api&utm_source=rss) by José Manuel Ortega Candel (⭐️5)
 - [Implementing DevSecOps with Docker and Kubernetes: An Experiential Guide to Operate in the DevOps Environment for Securing and Monitoring Container Applications](https://www.goodreads.com/review/show/4619219467?utm_medium=api&utm_source=rss) by José Manuel Ortega Candel (⭐️)
 - [Terraform: Up & Running: Writing Infrastructure as Code](https://www.goodreads.com/review/show/4335457671?utm_medium=api&utm_source=rss) by Yevgeniy Brikman (⭐️4.26)
