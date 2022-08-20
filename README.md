@@ -11,6 +11,7 @@
 
 [![esidate's GitHub stats](https://github-readme-stats.vercel.app/api?username=esidate)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- 
 ## Tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -52,7 +53,8 @@
 ![Agile](https://img.shields.io/badge/Agile-47ABE0?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-E52946?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-3F556D?style=for-the-badge)
-![Lean](https://img.shields.io/badge/Lean-f1f1f1?style=for-the-badge)
+![Lean](https://img.shields.io/badge/Lean-f1f1f1?style=for-the-badge) 
+-->
 
 ## Readings
 
