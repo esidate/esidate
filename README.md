@@ -1,54 +1,156 @@
+![lang](https://user-images.githubusercontent.com/59918011/186207093-ffeb03de-5c6f-4e28-a23c-d12eb7e91aab.png)
+
+
 ![](https://komarev.com/ghpvc/?username=esidate&color=brightgreen)
 
-### Hi there 👋 I'm a DevOps Team Leader. I'm passionate about Solution architecture, Software architecture, AI, Cybersecurity and Startups.
+### Hello 👋, I'm [El Mahdi Sidate!](https://github.com/esidate/)
+
+I'm a DevOps Team Leader. I'm passionate about Architecture, AI, Cybersecurity and Startups.
 
 [![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/el-mahdi-sidate/)
-[![ProtonMail email](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:esidate@protonmail.com)
-[![ProtonMail email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:esidate@protonmail.com)
-
-<!-- [![GitHub followers](https://img.shields.io/github/followers/esidate?color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/esidate/)
-[![GitHub User's stars](https://img.shields.io/github/stars/esidate?affiliations=OWNER%2CCOLLABORATOR&color=333&logo=github&logoColor=white&style=for-the-badge)](https://github.com/esidate/) -->
-
-[![esidate's GitHub stats](https://github-readme-stats.vercel.app/api?username=esidate)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Microsoft email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:esidate@protonmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/471067698386698270)
 
 ## Tech stack
 
-:warning: Todo: Update this..
+Following are some of the languages, frameworks and tools I frequently use:
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<p>
+  <img
+    alt="TypeScript"
+    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"
+  />
+  <img
+    alt="JavaScript"
+    src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=black"
+  />
+  <img
+    alt="Python"
+    src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white"
+  />
+  <img
+    alt="PHP"
+    src="https://img.shields.io/badge/-PHP-777BB3?style=flat-square&logo=php&logoColor=white"
+  />
 
-![Angular](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Electron.js](https://img.shields.io/badge/Ionic-367CF7?style=for-the-badge&logo=ionic&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+  <img
+    alt="Angular"
+    src="https://img.shields.io/badge/-Angular-dd1b16?style=flat-square&logo=angular&logoColor=white"
+  />
+  <img
+    alt="Vue"
+    src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vuedotjs&logoColor=white"
+  />
+  <img
+    alt="React"
+    src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
+  />
+  <img
+    alt="Sass"
+    src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"
+  />
+  <img
+    alt="Electron"
+    src="https://img.shields.io/badge/-Electron-191970?style=flat-square&logo=electron&logoColor=white"
+  />
+  <img
+    alt="Ionic"
+    src="https://img.shields.io/badge/-Ionic-367CF7?style=flat-square&logo=ionic&logoColor=white"
+  />
 
-![Laravel](https://img.shields.io/badge/laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  <img
+    alt="Laravel"
+    src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white"
+  />
+  <img
+    alt="FastAPI"
+    src="https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"
+  />
+  <img
+    alt="Flask"
+    src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"
+  />
+  <img
+    alt="Spring"
+    src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"
+  />
+  <img
+    alt="NestJS"
+    src="https://img.shields.io/badge/-NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white"
+  />
+  <img
+    alt="Node"
+    src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white"
+  />
 
-![MySQL](https://img.shields.io/badge/mysql-00718B.svg?style=for-the-badge&logo=mysql&logoColor=EA8C10)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+  <img
+    alt="MySQL"
+    src="https://img.shields.io/badge/-MySQL-00718B?style=flat-square&logo=mysql&logoColor=white"
+  />
+  <img
+    alt="SQLite"
+    src="https://img.shields.io/badge/-SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white"
+  />
+  <img
+    alt="RabbitMQ"
+    src="https://img.shields.io/badge/-RabbitMQ-F76300?style=flat-square&logo=rabbitmq&logoColor=white"
+  />
+  <img
+    alt="Redis"
+    src="https://img.shields.io/badge/-Redis-D12E26?style=flat-square&logo=redis&logoColor=white"
+  />
+  <img
+    alt="MongoDB"
+    src="https://img.shields.io/badge/-MongoDB-0FA54D?style=flat-square&logo=mongodb&logoColor=white"
+  />
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-F4ECFF?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  <img
+    alt="Kubernetes"
+    src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"
+  />
+  <img
+    alt="Docker"
+    src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"
+  />
+  <img
+    alt="Terraform"
+    src="https://img.shields.io/badge/-Terraform-7740B6?style=flat-square&logo=terraform&logoColor=white"
+  />
+  <img
+    alt="Ansible"
+    src="https://img.shields.io/badge/-Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white"
+  />
+  <img
+    alt="Nginx"
+    src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white"
+  />
 
-![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange)
+  <img
+    alt="GitLab"
+    src="https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab&logoColor=white"
+  />
+  <img
+    alt="ElasticSearch"
+    src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"
+  />
+  <img
+    alt="Prometheus"
+    src="https://img.shields.io/badge/-Prometheus-000000?style=flat-square&logo=prometheus&logoColor=white"
+  />
+  <img
+    alt="Grafana"
+    src="https://img.shields.io/badge/-Grafana-D54D32?style=flat-square&logo=grafana&logoColor=white"
+  />
+  <img
+    alt="AWS"
+    src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"
+  />
+  <img
+    alt="Cloudflare"
+    src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"
+  />
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ## Methodologies
 
@@ -57,6 +159,7 @@
 ![Scrum](https://img.shields.io/badge/Scrum-3F556D?style=for-the-badge)
 ![Lean](https://img.shields.io/badge/Lean-f1f1f1?style=for-the-badge) 
 
+[![esidate's GitHub stats](https://github-readme-stats.vercel.app/api?username=esidate)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Readings
 
