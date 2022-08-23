@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=esidate&color=brightgreen)
 
-### Hello 👋, I'm [El Mahdi Sidate!](https://github.com/esidate/).
+### Hello 👋, I'm [El Mahdi Sidate](https://github.com/esidate/)!
 I'm a DevOps Team Leader at [Sekera Group](https://sekera-group.com/) | [SecDojo](https://www.sec-dojo.com/). I'm passionate about Architecture, AI, Cybersecurity and Startups.
 
 <p>
