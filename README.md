@@ -3,9 +3,21 @@
 
 ![](https://komarev.com/ghpvc/?username=esidate&color=brightgreen)
 
-### Hello 👋, I'm [El Mahdi Sidate!](https://github.com/esidate/)
+### Hello 👋, I'm [El Mahdi Sidate!](https://github.com/esidate/).
+I'm a DevOps Team Leader at [Sekera Group](https://sekera-group.com/) | [SecDojo](https://www.sec-dojo.com/). I'm passionate about Architecture, AI, Cybersecurity and Startups.
 
-I'm a DevOps Team Leader. I'm passionate about Architecture, AI, Cybersecurity and Startups.
+<p>
+  <img
+    width="200px"
+    alt="Sekera"
+    src="https://user-images.githubusercontent.com/59918011/186220765-8ee8125b-d177-49b2-b21f-9747ca1e9689.png"
+  />
+  <img
+    width="250px"
+    alt="SecDojo"
+    src="https://user-images.githubusercontent.com/59918011/186220912-d0b32e5a-a9ab-4ee1-a5b0-be905cc8a9c6.png"
+  />
+</p>
 
 [![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/el-mahdi-sidate/)
 [![Microsoft email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:esidate@protonmail.com)
