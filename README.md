@@ -12,8 +12,9 @@ I'm a DevOps Team Leader at [Sekera Group](https://sekera-group.com/) | [SecDojo
     alt="Sekera"
     src="https://user-images.githubusercontent.com/59918011/186220765-8ee8125b-d177-49b2-b21f-9747ca1e9689.png"
   />
+  <span> </span>
   <img
-    width="250px"
+    width="260px"
     alt="SecDojo"
     src="https://user-images.githubusercontent.com/59918011/186220912-d0b32e5a-a9ab-4ee1-a5b0-be905cc8a9c6.png"
   />
