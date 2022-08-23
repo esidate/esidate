@@ -159,11 +159,9 @@ Following are some of the languages, frameworks and tools I frequently use:
 ![Scrum](https://img.shields.io/badge/Scrum-3F556D?style=for-the-badge)
 ![Lean](https://img.shields.io/badge/Lean-f1f1f1?style=for-the-badge) 
 
-[![esidate's GitHub stats](https://github-readme-stats.vercel.app/api?username=esidate)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Readings
 
-### Books I'm currently reading
+### Currently reading
 
 <!-- GOODREADS-LIST-CURRENTLY-READING:START -->
 - [How to Hack Like a Ghost](https://www.goodreads.com/review/show/4911137358?utm_medium=api&utm_source=rss) by Sparc Flow (⭐️4.29)
@@ -172,7 +170,7 @@ Following are some of the languages, frameworks and tools I frequently use:
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
 
-### Some books I have read
+### Books I have read
 
 <!-- GOODREADS-LIST-READ:START -->
 - [Driven: The Never-Give-Up Roadmap to Massive Success](https://www.goodreads.com/review/show/4864836198?utm_medium=api&utm_source=rss) by Manny Khoshbin (⭐️4.16)
@@ -187,7 +185,7 @@ Following are some of the languages, frameworks and tools I frequently use:
 - [The Stranger](https://www.goodreads.com/review/show/4379381393?utm_medium=api&utm_source=rss) by Albert Camus (⭐️4.01)
 <!-- GOODREADS-LIST-READ:END -->
 
-### My to read book list
+### Bucket list
 
 <!-- GOODREADS-LIST-TO-READ:START -->
 - [GitOps and Kubernetes](https://www.goodreads.com/review/show/4669351759?utm_medium=api&utm_source=rss) by Billy Yuen (⭐️3.47)
@@ -201,9 +199,3 @@ Following are some of the languages, frameworks and tools I frequently use:
 - [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes](https://www.goodreads.com/review/show/4315074262?utm_medium=api&utm_source=rss) by Brendan Burns (⭐️3.98)
 - [Microservices Security in Action](https://www.goodreads.com/review/show/4315033971?utm_medium=api&utm_source=rss) by Prabath Siriwardena (⭐️4.17)
 <!-- GOODREADS-LIST-TO-READ:END -->
-
-<!-- ## Notable repositories
-
-### Bla bla bla
-
-[![Blabla repo](https://github-readme-stats.vercel.app/api/pin/?username=esidate&repo=acloud-dl)](https://github.com/esidate/acloud-dl) -->
