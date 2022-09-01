@@ -137,7 +137,11 @@ Following are some of the languages, frameworks and tools I frequently use:
     alt="Nginx"
     src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white"
   />
-
+  <img
+    alt="Lua"
+    src="https://img.shields.io/badge/-Lua-00007C?style=flat-square&logo=lua&logoColor=white"
+  />
+  
   <img
     alt="GitLab"
     src="https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab&logoColor=white"
