@@ -213,6 +213,6 @@ Following are some of the languages, frameworks and tools I frequently use:
 - [Distributed Tracing in Practice: Instrumenting, Analyzing, and Debugging Microservices](https://www.goodreads.com/review/show/4335467161?utm_medium=api&utm_source=rss) by Austin Parker (⭐️4.21)
 - [Architecting for Scale: High Availability for Your Growing Applications](https://www.goodreads.com/review/show/4315099800?utm_medium=api&utm_source=rss) by Lee Atchison (⭐️3.52)
 - [Fundamentals of Organizational Behavior](https://www.goodreads.com/review/show/4315083491?utm_medium=api&utm_source=rss) by Andrew J. DuBrin (⭐️4.32)
-- [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes](https://www.goodreads.com/review/show/4315074262?utm_medium=api&utm_source=rss) by Brendan Burns (⭐️3.98)
+- [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes](https://www.goodreads.com/review/show/4315074262?utm_medium=api&utm_source=rss) by Brendan Burns (⭐️3.95)
 - [Microservices Security in Action](https://www.goodreads.com/review/show/4315033971?utm_medium=api&utm_source=rss) by Prabath Siriwardena (⭐️4.16)
 <!-- GOODREADS-LIST-TO-READ:END -->
