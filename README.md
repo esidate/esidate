@@ -190,6 +190,7 @@ Following are some of the languages, frameworks and tools I frequently use:
 ### Books I have read
 
 <!-- GOODREADS-LIST-READ:START -->
+- [How to Hack Like a Ghost](https://www.goodreads.com/review/show/4911137358?utm_medium=api&utm_source=rss) by Sparc Flow (⭐️4.33)
 - [Driven: The Never-Give-Up Roadmap to Massive Success](https://www.goodreads.com/review/show/4864836198?utm_medium=api&utm_source=rss) by Manny Khoshbin (⭐️4.14)
 - [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/4668488810?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️4)
 - [Kubernetes Security and Observability: A Holistic Approach to Securing Containers and Cloud Native Applications](https://www.goodreads.com/review/show/4619193142?utm_medium=api&utm_source=rss) by Brendan Creane (⭐️5)
@@ -199,7 +200,6 @@ Following are some of the languages, frameworks and tools I frequently use:
 - [Lean Analytics: The Complete Guide to the Systematic Method for the Use of Data to Manage and Build a Better and Faster Startup Business by Cutting Costs and Adding Value to the Development Process](https://www.goodreads.com/review/show/4314700991?utm_medium=api&utm_source=rss) by Josh Wright (⭐️4.33)
 - [The Art of Deception: Controlling the Human Element of Security](https://www.goodreads.com/review/show/4314754372?utm_medium=api&utm_source=rss) by Kevin D. Mitnick (⭐️3.79)
 - [Thus Spoke Zarathustra](https://www.goodreads.com/review/show/4379382077?utm_medium=api&utm_source=rss) by Friedrich Nietzsche (⭐️4.09)
-- [The Stranger](https://www.goodreads.com/review/show/4379381393?utm_medium=api&utm_source=rss) by Albert Camus (⭐️4.01)
 <!-- GOODREADS-LIST-READ:END -->
 
 ### Bucket list
