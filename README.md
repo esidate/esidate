@@ -204,14 +204,6 @@ Following are some of the languages, frameworks and tools I frequently use:
 ### Bucket list
 
 <!-- GOODREADS-LIST-TO-READ:START -->
-- [GitOps and Kubernetes](https://www.goodreads.com/review/show/4669351759?utm_medium=api&utm_source=rss) by Billy Yuen (⭐️3.45)
-- [DevOps and Containers Security: Security and monitoring in Docker Containers](https://www.goodreads.com/review/show/4668386069?utm_medium=api&utm_source=rss) by José Manuel Ortega Candel (⭐️5)
-- [Implementing DevSecOps with Docker and Kubernetes: An Experiential Guide to Operate in the DevOps Environment for Securing and Monitoring Container Applications](https://www.goodreads.com/review/show/4619219467?utm_medium=api&utm_source=rss) by José Manuel Ortega Candel (⭐️)
-- [Terraform: Up & Running: Writing Infrastructure as Code](https://www.goodreads.com/review/show/4335457671?utm_medium=api&utm_source=rss) by Yevgeniy Brikman (⭐️4.27)
+- [Explosive Growth: A Few Things I Learned While Growing To 100 Million Users - And Losing $78 Million](https://www.goodreads.com/review/show/5068369428?utm_medium=api&utm_source=rss) by Cliff Lerner (⭐️4.23)
 - [The Parallel Entrepreneur: How to start and run B2B businesses while keeping your day job](https://www.goodreads.com/review/show/4359905656?utm_medium=api&utm_source=rss) by Ryan Buckley (⭐️4.08)
-- [Distributed Tracing in Practice: Instrumenting, Analyzing, and Debugging Microservices](https://www.goodreads.com/review/show/4335467161?utm_medium=api&utm_source=rss) by Austin Parker (⭐️4.2)
-- [Architecting for Scale: High Availability for Your Growing Applications](https://www.goodreads.com/review/show/4315099800?utm_medium=api&utm_source=rss) by Lee Atchison (⭐️3.52)
-- [Fundamentals of Organizational Behavior](https://www.goodreads.com/review/show/4315083491?utm_medium=api&utm_source=rss) by Andrew J. DuBrin (⭐️4.32)
-- [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes](https://www.goodreads.com/review/show/4315074262?utm_medium=api&utm_source=rss) by Brendan Burns (⭐️3.93)
-- [Microservices Security in Action](https://www.goodreads.com/review/show/4315033971?utm_medium=api&utm_source=rss) by Prabath Siriwardena (⭐️4.18)
 <!-- GOODREADS-LIST-TO-READ:END -->
