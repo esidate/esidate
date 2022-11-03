@@ -204,6 +204,6 @@ Following are some of the languages, frameworks and tools I frequently use:
 ### Bucket list
 
 <!-- GOODREADS-LIST-TO-READ:START -->
-- [Explosive Growth: A Few Things I Learned While Growing To 100 Million Users - And Losing $78 Million](https://www.goodreads.com/review/show/5068369428?utm_medium=api&utm_source=rss) by Cliff Lerner (⭐️4.23)
+- [Explosive Growth: A Few Things I Learned While Growing To 100 Million Users - And Losing $78 Million](https://www.goodreads.com/review/show/5068369428?utm_medium=api&utm_source=rss) by Cliff Lerner (⭐️4.22)
 - [The Parallel Entrepreneur: How to start and run B2B businesses while keeping your day job](https://www.goodreads.com/review/show/4359905656?utm_medium=api&utm_source=rss) by Ryan Buckley (⭐️4.08)
 <!-- GOODREADS-LIST-TO-READ:END -->
