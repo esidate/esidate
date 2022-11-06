@@ -21,7 +21,7 @@ I'm a DevOps Team Leader at [Sekera Group](https://sekera-group.com/) | [SecDojo
 </p>
 
 [![LinkedIn profile URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/el-mahdi-sidate/)
-[![Microsoft email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:esidate@protonmail.com)
+[![Microsoft email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:esidate@sekera-group.com)
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/471067698386698270)
 
 ## Tech stack
