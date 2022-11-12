@@ -201,7 +201,7 @@ Following are some of the languages, frameworks and tools I frequently use:
 - [The Art of Deception: Controlling the Human Element of Security](https://www.goodreads.com/review/show/4314754372?utm_medium=api&utm_source=rss) by Kevin D. Mitnick (⭐️3.79)
 <!-- GOODREADS-LIST-READ:END -->
 
-### Bucket list
+### Bucket list and books that I paused reading
 
 <!-- GOODREADS-LIST-TO-READ:START -->
 - [Explosive Growth: A Few Things I Learned While Growing To 100 Million Users - And Losing $78 Million](https://www.goodreads.com/review/show/5068369428?utm_medium=api&utm_source=rss) by Cliff Lerner (⭐️4.22)
