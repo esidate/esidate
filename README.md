@@ -204,6 +204,7 @@ Following are some of the languages, frameworks and tools I frequently use:
 ### Bucket list and books that I paused reading
 
 <!-- GOODREADS-LIST-TO-READ:START -->
+- [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.goodreads.com/review/show/4668352641?utm_medium=api&utm_source=rss) by Neal Ford (⭐️4.41)
+- [Securing DevOps: Security in the Cloud](https://www.goodreads.com/review/show/4639791970?utm_medium=api&utm_source=rss) by Julien Vehent (⭐️4.36)
 - [Explosive Growth: A Few Things I Learned While Growing To 100 Million Users - And Losing $78 Million](https://www.goodreads.com/review/show/5068369428?utm_medium=api&utm_source=rss) by Cliff Lerner (⭐️4.22)
-- [The Parallel Entrepreneur: How to start and run B2B businesses while keeping your day job](https://www.goodreads.com/review/show/4359905656?utm_medium=api&utm_source=rss) by Ryan Buckley (⭐️4.06)
 <!-- GOODREADS-LIST-TO-READ:END -->
