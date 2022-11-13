@@ -202,6 +202,7 @@ Following are some of the languages, frameworks and tools I frequently use:
 ### Bucket list and books that I paused reading
 
 <!-- GOODREADS-LIST-TO-READ:START -->
+- [Getting Past No: Negotiating in Difficult Situations](https://www.goodreads.com/review/show/5101571507?utm_medium=api&utm_source=rss) by William Ury (⭐️3.95)
 - [Traction: How Any Startup Can Achieve Explosive Customer Growth](https://www.goodreads.com/review/show/5101515177?utm_medium=api&utm_source=rss) by Gabriel Weinberg (⭐️4.21)
 - [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.goodreads.com/review/show/4668352641?utm_medium=api&utm_source=rss) by Neal Ford (⭐️4.41)
 - [Securing DevOps: Security in the Cloud](https://www.goodreads.com/review/show/4639791970?utm_medium=api&utm_source=rss) by Julien Vehent (⭐️4.36)
