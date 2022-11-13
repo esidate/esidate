@@ -181,9 +181,7 @@ Following are some of the languages, frameworks and tools I frequently use:
 ### Currently reading
 
 <!-- GOODREADS-LIST-CURRENTLY-READING:START -->
-- [MAKE: Bootstrapper&apos;s Handbook](https://www.goodreads.com/review/show/5068344025?utm_medium=api&utm_source=rss) by Pieter Levels (⭐️4.11)
-- [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.goodreads.com/review/show/4668352641?utm_medium=api&utm_source=rss) by Neal Ford (⭐️4.41)
-- [Securing DevOps: Security in the Cloud](https://www.goodreads.com/review/show/4639791970?utm_medium=api&utm_source=rss) by Julien Vehent (⭐️4.36)
+- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/review/show/5101514523?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐️4.21)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
 
 ### Books I have read
