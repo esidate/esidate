@@ -193,7 +193,6 @@ Following are some of the languages, frameworks and tools I frequently use:
 ### I have read
 
 <!-- GOODREADS-LIST-READ:START -->
-
 - [MAKE: Bootstrapper&apos;s Handbook](https://www.goodreads.com/review/show/5068344025?utm_medium=api&utm_source=rss) by Pieter Levels (⭐️4.11)
 - [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/5068355865?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️4)
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️)
