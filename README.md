@@ -1,9 +1,9 @@
 ![header](https://user-images.githubusercontent.com/59918011/188706237-350b85a4-f2b8-43e1-9ef1-a853a41cc3d9.png)
 
-
 ![](https://komarev.com/ghpvc/?username=esidate&color=brightgreen)
 
 ### Hello 👋, I'm [El Mahdi Sidate](https://github.com/esidate/)!
+
 I'm a DevOps Team Leader at [Sekera Group](https://sekera-group.com/) | [SecDojo](https://www.sec-dojo.com/). I'm passionate about Software Architecture, AI, Cybersecurity and Startups.
 
 <p>
@@ -28,7 +28,7 @@ I'm a DevOps Team Leader at [Sekera Group](https://sekera-group.com/) | [SecDojo
 
 Following are some of the languages, frameworks and tools I frequently use:
 
-<p>
+<div>
   <img
     alt="TypeScript"
     src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"
@@ -45,7 +45,26 @@ Following are some of the languages, frameworks and tools I frequently use:
     alt="PHP"
     src="https://img.shields.io/badge/-PHP-777BB3?style=flat-square&logo=php&logoColor=white"
   />
-
+  <img
+    alt="Java"
+    src="https://img.shields.io/badge/-Java-ED4127?style=flat-square&logo=CoffeeScript&logoColor=white"
+  />
+  <img
+    alt="Lua"
+    src="https://img.shields.io/badge/-Lua-00007C?style=flat-square&logo=lua&logoColor=white"
+  />
+  <img
+    alt="HTML"
+    src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"
+  />
+  <img
+    alt="CSS"
+    src="https://img.shields.io/badge/-CSS-E34F26?style=flat-square&logo=css3&logoColor=white"
+  />
+  <img
+    alt="Sass"
+    src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"
+  />
   <img
     alt="Angular"
     src="https://img.shields.io/badge/-Angular-dd1b16?style=flat-square&logo=angular&logoColor=white"
@@ -58,19 +77,6 @@ Following are some of the languages, frameworks and tools I frequently use:
     alt="React"
     src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
   />
-  <img
-    alt="Sass"
-    src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"
-  />
-  <img
-    alt="Electron"
-    src="https://img.shields.io/badge/-Electron-191970?style=flat-square&logo=electron&logoColor=white"
-  />
-  <img
-    alt="Ionic"
-    src="https://img.shields.io/badge/-Ionic-367CF7?style=flat-square&logo=ionic&logoColor=white"
-  />
-
   <img
     alt="Laravel"
     src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white"
@@ -95,7 +101,18 @@ Following are some of the languages, frameworks and tools I frequently use:
     alt="Node"
     src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white"
   />
-
+  <img
+    alt="Electron"
+    src="https://img.shields.io/badge/-Electron-191970?style=flat-square&logo=electron&logoColor=white"
+  />
+  <img
+    alt="Ionic"
+    src="https://img.shields.io/badge/-Ionic-367CF7?style=flat-square&logo=ionic&logoColor=white"
+  />
+  <img
+    alt="Cordova"
+    src="https://img.shields.io/badge/-cordova-253037?style=flat-square&logo=apachecordova&logoColor=white"
+  />
   <img
     alt="MySQL"
     src="https://img.shields.io/badge/-MySQL-00718B?style=flat-square&logo=mysql&logoColor=white"
@@ -112,11 +129,6 @@ Following are some of the languages, frameworks and tools I frequently use:
     alt="Redis"
     src="https://img.shields.io/badge/-Redis-D12E26?style=flat-square&logo=redis&logoColor=white"
   />
-  <img
-    alt="MongoDB"
-    src="https://img.shields.io/badge/-MongoDB-0FA54D?style=flat-square&logo=mongodb&logoColor=white"
-  />
-
   <img
     alt="Kubernetes"
     src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"
@@ -137,11 +149,6 @@ Following are some of the languages, frameworks and tools I frequently use:
     alt="Nginx"
     src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white"
   />
-  <img
-    alt="Lua"
-    src="https://img.shields.io/badge/-Lua-00007C?style=flat-square&logo=lua&logoColor=white"
-  />
-  
   <img
     alt="GitLab"
     src="https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab&logoColor=white"
@@ -166,27 +173,28 @@ Following are some of the languages, frameworks and tools I frequently use:
     alt="Cloudflare"
     src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"
   />
-</p>
+</div>
 
-
-## Methodologies
+<!-- ## Methodologies
 
 ![Agile](https://img.shields.io/badge/Agile-47ABE0?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-E52946?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-3F556D?style=for-the-badge)
-![Lean](https://img.shields.io/badge/Lean-f1f1f1?style=for-the-badge) 
+![Lean](https://img.shields.io/badge/Lean-f1f1f1?style=for-the-badge)  -->
 
-## Readings
+## Books
 
 ### Currently reading
 
 <!-- GOODREADS-LIST-CURRENTLY-READING:START -->
+
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/review/show/5101514523?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐️4.21)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
 
-### Books I have read
+### I have read
 
 <!-- GOODREADS-LIST-READ:START -->
+
 - [MAKE: Bootstrapper&apos;s Handbook](https://www.goodreads.com/review/show/5068344025?utm_medium=api&utm_source=rss) by Pieter Levels (⭐️4.11)
 - [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/5068355865?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️4)
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️)
@@ -199,9 +207,10 @@ Following are some of the languages, frameworks and tools I frequently use:
 - [Lean Analytics: The Complete Guide to the Systematic Method for the Use of Data to Manage and Build a Better and Faster Startup Business by Cutting Costs and Adding Value to the Development Process](https://www.goodreads.com/review/show/4314700991?utm_medium=api&utm_source=rss) by Josh Wright (⭐️4.33)
 <!-- GOODREADS-LIST-READ:END -->
 
-### Bucket list and books that I paused reading
+### Bucket list and/or books that I paused reading
 
 <!-- GOODREADS-LIST-TO-READ:START -->
+
 - [Getting Past No: Negotiating in Difficult Situations](https://www.goodreads.com/review/show/5101571507?utm_medium=api&utm_source=rss) by William Ury (⭐️3.95)
 - [Traction: How Any Startup Can Achieve Explosive Customer Growth](https://www.goodreads.com/review/show/5101515177?utm_medium=api&utm_source=rss) by Gabriel Weinberg (⭐️4.21)
 - [Software Architecture: The Hard Parts: Modern Tradeoff Analysis for Distributed Architectures](https://www.goodreads.com/review/show/4668352641?utm_medium=api&utm_source=rss) by Neal Ford (⭐️4.4)
