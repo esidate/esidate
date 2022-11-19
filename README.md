@@ -111,7 +111,7 @@ Following are some of the languages, frameworks and tools I frequently use:
   />
   <img
     alt="Cordova"
-    src="https://img.shields.io/badge/-cordova-253037?style=flat-square&logo=apachecordova&logoColor=white"
+    src="https://img.shields.io/badge/-Cordova-253037?style=flat-square&logo=apachecordova&logoColor=white"
   />
   <img
     alt="MySQL"
