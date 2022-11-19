@@ -187,7 +187,6 @@ Following are some of the languages, frameworks and tools I frequently use:
 ### Currently reading
 
 <!-- GOODREADS-LIST-CURRENTLY-READING:START -->
-
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/review/show/5101514523?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐️4.21)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
 
