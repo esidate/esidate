@@ -26,7 +26,7 @@ I'm a DevOps Team Leader at [Sekera Group](https://sekera-group.com/) | [SecDojo
 
 ## Tech stack
 
-Following are some of the languages, frameworks and tools I frequently use:
+Following are some of the technologies I frequently use:
 
 <div>
   <img
