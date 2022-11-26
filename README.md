@@ -4,7 +4,7 @@
 
 ### Hello 👋, I'm [El Mahdi Sidate](https://www.linkedin.com/in/el-mahdi-sidate/)!
 
-I'm a DevOps Team Leader at [Sekera Group](https://sekera-group.com/) | [SecDojo](https://www.sec-dojo.com/). I'm passionate about Software Architecture, AI, Cybersecurity and Startups.
+I'm a DevOps Team Leader at [Sekera Group](https://sekera-group.com/) | [SecDojo](https://www.sec-dojo.com/). I'm passionate about Software Architecture, Cybersecurity, AI and Startups.
 
 <p>
   <img
