@@ -196,7 +196,7 @@ Following are some of the technologies I frequently use:
 - [MAKE: Bootstrapper&apos;s Handbook](https://www.goodreads.com/review/show/5068344025?utm_medium=api&utm_source=rss) by Pieter Levels (⭐️4.12)
 - [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/5068355865?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️4)
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️)
-- [How to Hack Like a Ghost](https://www.goodreads.com/review/show/4911137358?utm_medium=api&utm_source=rss) by Sparc Flow (⭐️4.33)
+- [How to Hack Like a Ghost](https://www.goodreads.com/review/show/4911137358?utm_medium=api&utm_source=rss) by Sparc Flow (⭐️4.26)
 - [Driven: The Never-Give-Up Roadmap to Massive Success](https://www.goodreads.com/review/show/4864836198?utm_medium=api&utm_source=rss) by Manny Khoshbin (⭐️4.14)
 - [Kubernetes Security and Observability: A Holistic Approach to Securing Containers and Cloud Native Applications](https://www.goodreads.com/review/show/4619193142?utm_medium=api&utm_source=rss) by Brendan Creane (⭐️5)
 - [Practical Security Automation and Testing: Tools and techniques for automated security scanning and testing in DevSecOps](https://www.goodreads.com/review/show/4619194067?utm_medium=api&utm_source=rss) by Tony Hsiang-Chih Hsu (⭐️4)
