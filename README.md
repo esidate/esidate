@@ -82,6 +82,10 @@ Following are some of the technologies I frequently use:
     src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white"
   />
   <img
+    alt="NestJS"
+    src="https://img.shields.io/badge/-NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white"
+  />
+  <img
     alt="FastAPI"
     src="https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"
   />
@@ -92,10 +96,6 @@ Following are some of the technologies I frequently use:
   <img
     alt="Spring"
     src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"
-  />
-  <img
-    alt="NestJS"
-    src="https://img.shields.io/badge/-NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white"
   />
   <img
     alt="Node"
@@ -116,6 +116,10 @@ Following are some of the technologies I frequently use:
   <img
     alt="MySQL"
     src="https://img.shields.io/badge/-MySQL-00718B?style=flat-square&logo=mysql&logoColor=white"
+  />
+  <img
+    alt="PostgreSQL"
+    src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white"
   />
   <img
     alt="SQLite"
@@ -151,7 +155,7 @@ Following are some of the technologies I frequently use:
   />
   <img
     alt="GitLab"
-    src="https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab&logoColor=white"
+    src="https://img.shields.io/badge/-GitLab-e24329?style=flat-square&logo=gitlab&logoColor=white"
   />
   <img
     alt="ElasticSearch"
@@ -159,7 +163,7 @@ Following are some of the technologies I frequently use:
   />
   <img
     alt="Prometheus"
-    src="https://img.shields.io/badge/-Prometheus-000000?style=flat-square&logo=prometheus&logoColor=white"
+    src="https://img.shields.io/badge/-Prometheus-e95224?style=flat-square&logo=prometheus&logoColor=white"
   />
   <img
     alt="Grafana"
