@@ -197,16 +197,16 @@ Following are some of the technologies I frequently use:
 ### I have read
 
 <!-- GOODREADS-LIST-READ:START -->
-- [Kubernetes: Up &amp; Running](https://www.goodreads.com/review/show/4314755263?utm_medium=api&utm_source=rss) by Kelsey Hightower (⭐️4.02)
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.goodreads.com/review/show/4314756395?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.72)
+- [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️4)
+- [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/5068355865?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️4.02)
 - [MAKE: Bootstrapper&apos;s Handbook](https://www.goodreads.com/review/show/5068344025?utm_medium=api&utm_source=rss) by Pieter Levels (⭐️4.12)
-- [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/5068355865?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️4)
-- [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️)
-- [How to Hack Like a Ghost](https://www.goodreads.com/review/show/4911137358?utm_medium=api&utm_source=rss) by Sparc Flow (⭐️4.37)
 - [Driven: The Never-Give-Up Roadmap to Massive Success](https://www.goodreads.com/review/show/4864836198?utm_medium=api&utm_source=rss) by Manny Khoshbin (⭐️4.14)
-- [Kubernetes Security and Observability: A Holistic Approach to Securing Containers and Cloud Native Applications](https://www.goodreads.com/review/show/4619193142?utm_medium=api&utm_source=rss) by Brendan Creane (⭐️5)
-- [Practical Security Automation and Testing: Tools and techniques for automated security scanning and testing in DevSecOps](https://www.goodreads.com/review/show/4619194067?utm_medium=api&utm_source=rss) by Tony Hsiang-Chih Hsu (⭐️4)
-- [Learning DevSecOps](https://www.goodreads.com/review/show/4619251070?utm_medium=api&utm_source=rss) by Michelle Ribeiro (⭐️4)
+- [Learning DevSecOps](https://www.goodreads.com/review/show/4619251070?utm_medium=api&utm_source=rss) by Michelle Ribeiro (⭐️4.25)
+- [Practical Security Automation and Testing: Tools and techniques for automated security scanning and testing in DevSecOps](https://www.goodreads.com/review/show/4619194067?utm_medium=api&utm_source=rss) by Tony Hsiang-Chih Hsu (⭐️3.8)
+- [Container Security: Fundamental Technology Concepts That Protect Containerized Applications](https://www.goodreads.com/review/show/4619189465?utm_medium=api&utm_source=rss) by Liz Rice (⭐️4.55)
+- [Lean Analytics: The Complete Guide to the Systematic Method for the Use of Data to Manage and Build a Better and Faster Startup Business by Cutting Costs and Adding Value to the Development Process](https://www.goodreads.com/review/show/4314700991?utm_medium=api&utm_source=rss) by Josh Wright (⭐️3.6)
+- [The Art of Deception: Controlling the Human Element of Security](https://www.goodreads.com/review/show/4314754372?utm_medium=api&utm_source=rss) by Kevin D. Mitnick (⭐️3.79)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.goodreads.com/review/show/4314756395?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.72)
 <!-- GOODREADS-LIST-READ:END -->
 
 ### Bucket list and/or books that I paused reading
