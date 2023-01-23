@@ -197,6 +197,7 @@ Following are some of the technologies I frequently use:
 ### I have read
 
 <!-- GOODREADS-LIST-READ:START -->
+- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/review/show/5101514523?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐️4.21)
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️4)
 - [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/5068355865?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️4.02)
 - [MAKE: Bootstrapper&apos;s Handbook](https://www.goodreads.com/review/show/5068344025?utm_medium=api&utm_source=rss) by Pieter Levels (⭐️4.12)
@@ -206,7 +207,6 @@ Following are some of the technologies I frequently use:
 - [Container Security: Fundamental Technology Concepts That Protect Containerized Applications](https://www.goodreads.com/review/show/4619189465?utm_medium=api&utm_source=rss) by Liz Rice (⭐️4.56)
 - [Lean Analytics: The Complete Guide to the Systematic Method for the Use of Data to Manage and Build a Better and Faster Startup Business by Cutting Costs and Adding Value to the Development Process](https://www.goodreads.com/review/show/4314700991?utm_medium=api&utm_source=rss) by Josh Wright (⭐️3.6)
 - [The Art of Deception: Controlling the Human Element of Security](https://www.goodreads.com/review/show/4314754372?utm_medium=api&utm_source=rss) by Kevin D. Mitnick (⭐️3.79)
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.goodreads.com/review/show/4314756395?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.72)
 <!-- GOODREADS-LIST-READ:END -->
 
 ### Bucket list and/or books that I paused reading
