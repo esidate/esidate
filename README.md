@@ -192,7 +192,6 @@ Following are some of the technologies I frequently use:
 
 <!-- GOODREADS-LIST-CURRENTLY-READING:START -->
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.goodreads.com/review/show/5241238438?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.75)
-- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/review/show/5101514523?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐️4.21)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
 
 ### I have read
