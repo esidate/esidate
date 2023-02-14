@@ -191,7 +191,7 @@ Following are some of the technologies I frequently use:
 ### Currently reading
 
 <!-- GOODREADS-LIST-CURRENTLY-READING:START -->
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.goodreads.com/review/show/5241238438?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.79)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.goodreads.com/review/show/5241238438?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.8)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
 
 ### I have read
