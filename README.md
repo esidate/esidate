@@ -192,7 +192,7 @@ Following are some of the technologies I frequently use:
 
 <!-- GOODREADS-LIST-CURRENTLY-READING:START -->
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.goodreads.com/review/show/5241238438?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.75)
-- [GPT-3: Building Innovative NLP Products using LLMs](https://www.goodreads.com/review/show/5371869594?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️4.48)
+- [GPT-3: Building Innovative NLP Products using LLMs](https://www.goodreads.com/review/show/5371869594?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️4.47)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
 
 ### I have read
