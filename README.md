@@ -50,6 +50,10 @@ Following are some of the technologies I frequently use:
     src="https://img.shields.io/badge/-Java-ED4127?style=flat-square&logo=CoffeeScript&logoColor=white"
   />
   <img
+    alt="Go"
+    src="https://img.shields.io/badge/-Go-3BB8AA?style=flat-square&logo=Go&logoColor=white"
+  />
+  <img
     alt="Lua"
     src="https://img.shields.io/badge/-Lua-00007C?style=flat-square&logo=lua&logoColor=white"
   />
