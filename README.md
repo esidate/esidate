@@ -210,7 +210,7 @@ Following are some of the technologies I frequently use:
 - [Driven: The Never-Give-Up Roadmap to Massive Success](https://www.goodreads.com/review/show/4864836198?utm_medium=api&utm_source=rss) by Manny Khoshbin (⭐️4.1)
 - [Learning DevSecOps](https://www.goodreads.com/review/show/4619251070?utm_medium=api&utm_source=rss) by Michelle Ribeiro (⭐️4.25)
 - [Practical Security Automation and Testing: Tools and techniques for automated security scanning and testing in DevSecOps](https://www.goodreads.com/review/show/4619194067?utm_medium=api&utm_source=rss) by Tony Hsiang-Chih Hsu (⭐️3.8)
-- [Container Security: Fundamental Technology Concepts that Protect Containerized Applications](https://www.goodreads.com/review/show/4619189465?utm_medium=api&utm_source=rss) by Liz Rice (⭐️4.55)
+- [Container Security: Fundamental Technology Concepts that Protect Containerized Applications](https://www.goodreads.com/review/show/4619189465?utm_medium=api&utm_source=rss) by Liz Rice (⭐️4.54)
 <!-- GOODREADS-LIST-READ:END -->
 
 ### Bucket list and/or books that I paused reading
