@@ -24,6 +24,13 @@ CTO & Co-Founder @ [SecDojo](https://www.sec-dojo.com/) | Lead Software Engineer
 [![Microsoft email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:esidate@sekera-group.com)
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/471067698386698270)
 
+## Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
+  <img alt="github-snake" src="./assets/contribution-snake.svg" />
+</picture>
+
 ## Tech stack
 
 Following are some of the technologies I frequently use:
