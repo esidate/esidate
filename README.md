@@ -190,13 +190,6 @@ Following are some of the technologies I frequently use:
 ![Scrum](https://img.shields.io/badge/Scrum-3F556D?style=for-the-badge)
 ![Lean](https://img.shields.io/badge/Lean-f1f1f1?style=for-the-badge)  -->
 
-## Contribution
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
-  <img alt="github-snake" src="./assets/contribution-snake.svg" />
-</picture>
-
 ## Books
 
 ### Currently reading
