@@ -24,7 +24,7 @@ CTO & Co-Founder at [SecDojo](https://www.sec-dojo.com/) | Head of R&D at [Seker
 [![Microsoft email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:esidate@sekera-group.com)
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/471067698386698270)
 
-## Tech stack
+<!-- ## Tech stack
 
 Following are some of the technologies I frequently use:
 
@@ -181,7 +181,7 @@ Following are some of the technologies I frequently use:
     alt="Cloudflare"
     src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"
   />
-</div>
+</div> -->
 
 <!-- ## Methodologies
 
