@@ -195,7 +195,8 @@ Following are some of the technologies I frequently use:
 ### Currently reading
 
 <!-- GOODREADS-LIST-CURRENTLY-READING:START -->
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.goodreads.com/review/show/5241238438?utm_medium=api&utm_source=rss) by Aurélien Géron (⭐️4.8)
+- [High Output Management](https://www.goodreads.com/review/show/6345653068?utm_medium=api&utm_source=rss) by Andrew S. Grove (⭐️4.27)
+- [Way of the Wolf: Become a Master Closer with Straight Line Selling](https://www.goodreads.com/review/show/6345646962?utm_medium=api&utm_source=rss) by Jordan Belfort (⭐️3.97)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
 
 ### Last 10 books I read
