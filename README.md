@@ -4,15 +4,9 @@
 
 ### Hello 👋, I'm [El Mahdi Sidate](https://www.linkedin.com/in/el-mahdi-sidate/)!
 
-CTO & Co-Founder at [SecDojo](https://www.sec-dojo.com/) | Head of R&D at [Sekera](https://sekera-group.com/). I'm passionate about AI, Startups and Cybersecurity.
+CTO & Co-Founder at [SecDojo](https://www.sec-dojo.com/). I'm passionate about AI, Startups and Cybersecurity.
 
 <p>
-  <img
-    width="200px"
-    alt="Sekera"
-    src="https://user-images.githubusercontent.com/59918011/186220765-8ee8125b-d177-49b2-b21f-9747ca1e9689.png"
-  />
-  <span> </span>
   <img
     width="260px"
     alt="SecDojo"
