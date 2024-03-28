@@ -199,7 +199,6 @@ Following are some of the technologies I frequently use:
 - [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](https://www.goodreads.com/review/show/6360222006?utm_medium=api&utm_source=rss) by Geoffrey A. Moore (⭐️3.99)
 - [The Startup Checklist: 25 Steps to a Scalable, High-Growth Business](https://www.goodreads.com/review/show/6351767972?utm_medium=api&utm_source=rss) by David S.  Rose (⭐️4.09)
 - [High Output Management](https://www.goodreads.com/review/show/6345653068?utm_medium=api&utm_source=rss) by Andrew S. Grove (⭐️4.27)
-- [Way of the Wolf: Become a Master Closer with Straight Line Selling](https://www.goodreads.com/review/show/6345646962?utm_medium=api&utm_source=rss) by Jordan Belfort (⭐️3.97)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
 
 ### Last 10 books I read
