@@ -204,6 +204,7 @@ Following are some of the technologies I frequently use:
 ### Last 10 books I read
 
 <!-- GOODREADS-LIST-READ:START -->
+- [Way of the Wolf: Become a Master Closer with Straight Line Selling](https://www.goodreads.com/review/show/6345646962?utm_medium=api&utm_source=rss) by Jordan Belfort (⭐️3.97)
 - [GPT-3: Building Innovative NLP Products using LLMs](https://www.goodreads.com/review/show/5371869594?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️4.25)
 - [GPT-3: The Ultimate Guide To Building NLP Products With OpenAI API](https://www.goodreads.com/review/show/5372423272?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️3.12)
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️4)
@@ -213,7 +214,6 @@ Following are some of the technologies I frequently use:
 - [Learning DevSecOps](https://www.goodreads.com/review/show/4619251070?utm_medium=api&utm_source=rss) by Michelle Ribeiro (⭐️4.25)
 - [Practical Security Automation and Testing: Tools and techniques for automated security scanning and testing in DevSecOps](https://www.goodreads.com/review/show/4619194067?utm_medium=api&utm_source=rss) by Tony Hsiang-Chih Hsu (⭐️3.2)
 - [Container Security: Fundamental Technology Concepts that Protect Containerized Applications](https://www.goodreads.com/review/show/4619189465?utm_medium=api&utm_source=rss) by Liz Rice (⭐️4.51)
-- [Lean Analytics: The Complete Guide to the Systematic Method for the Use of Data to Manage and Build a Better and Faster Startup Business by Cutting Costs and Adding Value to the Development Process](https://www.goodreads.com/review/show/4314700991?utm_medium=api&utm_source=rss) by Josh  Wright (⭐️3.5)
 <!-- GOODREADS-LIST-READ:END -->
 
 ### Bucket list and/or books that I paused reading
