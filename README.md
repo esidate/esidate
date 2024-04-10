@@ -213,8 +213,14 @@ Following are some of the technologies I frequently use:
 ### Bucket list and/or books that I paused reading
 
 <!-- GOODREADS-LIST-TO-READ:START -->
+- [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto)](https://www.goodreads.com/review/show/6418578580?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
+- [The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/review/show/6418578144?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️3.96)
+- [The Bed of Procrustes: Philosophical and Practical Aphorisms](https://www.goodreads.com/review/show/6418577857?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️3.78)
+- [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/6418577121?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
+- [Skin in the Game: The Hidden Asymmetries in Daily Life](https://www.goodreads.com/review/show/6418576687?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️3.87)
+- [The Rational Optimist: How Prosperity Evolves](https://www.goodreads.com/review/show/6418571206?utm_medium=api&utm_source=rss) by Matt Ridley (⭐️3.95)
+- [How Innovation Works: Serendipity, Energy and the Saving of Time](https://www.goodreads.com/review/show/6418561141?utm_medium=api&utm_source=rss) by Matt Ridley (⭐️4.08)
 - [Hackers and Painters](https://www.goodreads.com/review/show/5147011663?utm_medium=api&utm_source=rss) by Paul    Graham (⭐️4.03)
 - [What You Do Is Who You Are: How to Create Your Business Culture](https://www.goodreads.com/review/show/5118368919?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐️3.97)
 - [Getting Past No: Negotiating in Difficult Situations](https://www.goodreads.com/review/show/5101571507?utm_medium=api&utm_source=rss) by William Ury (⭐️3.96)
-- [Traction: How Any Startup Can Achieve Explosive Customer Growth](https://www.goodreads.com/review/show/5101515177?utm_medium=api&utm_source=rss) by Gabriel Weinberg (⭐️4.2)
 <!-- GOODREADS-LIST-TO-READ:END -->
