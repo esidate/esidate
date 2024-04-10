@@ -216,5 +216,5 @@ Following are some of the technologies I frequently use:
 - [Hackers and Painters](https://www.goodreads.com/review/show/5147011663?utm_medium=api&utm_source=rss) by Paul    Graham (⭐️4.03)
 - [What You Do Is Who You Are: How to Create Your Business Culture](https://www.goodreads.com/review/show/5118368919?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐️3.97)
 - [Getting Past No: Negotiating in Difficult Situations](https://www.goodreads.com/review/show/5101571507?utm_medium=api&utm_source=rss) by William Ury (⭐️3.96)
-- [Traction: How Any Startup Can Achieve Explosive Customer Growth](https://www.goodreads.com/review/show/5101515177?utm_medium=api&utm_source=rss) by Gabriel Weinberg (⭐️4.19)
+- [Traction: How Any Startup Can Achieve Explosive Customer Growth](https://www.goodreads.com/review/show/5101515177?utm_medium=api&utm_source=rss) by Gabriel Weinberg (⭐️4.2)
 <!-- GOODREADS-LIST-TO-READ:END -->
