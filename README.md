@@ -216,7 +216,7 @@ Following are some of the technologies I frequently use:
 - [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/review/show/6418624169?utm_medium=api&utm_source=rss) by David Deutsch (⭐️4.17)
 - [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto)](https://www.goodreads.com/review/show/6418578580?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
 - [The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/review/show/6418578144?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️3.96)
-- [The Bed of Procrustes: Philosophical and Practical Aphorisms](https://www.goodreads.com/review/show/6418577857?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️3.78)
+- [The Bed of Procrustes: Philosophical and Practical Aphorisms](https://www.goodreads.com/review/show/6418577857?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️3.77)
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/6418577121?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
 - [Skin in the Game: The Hidden Asymmetries in Daily Life](https://www.goodreads.com/review/show/6418576687?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️3.87)
 - [The Rational Optimist: How Prosperity Evolves](https://www.goodreads.com/review/show/6418571206?utm_medium=api&utm_source=rss) by Matt Ridley (⭐️3.95)
