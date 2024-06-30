@@ -198,7 +198,7 @@ Following are some of the technologies I frequently use:
 ### Last 10 books I read
 
 <!-- GOODREADS-LIST-READ:START -->
-- [Way of the Wolf: Become a Master Closer with Straight Line Selling](https://www.goodreads.com/review/show/6345646962?utm_medium=api&utm_source=rss) by Jordan Belfort (⭐️3.95)
+- [Way of the Wolf: Become a Master Closer with Straight Line Selling](https://www.goodreads.com/review/show/6345646962?utm_medium=api&utm_source=rss) by Jordan Belfort (⭐️3.96)
 - [GPT-3: Building Innovative NLP Products using LLMs](https://www.goodreads.com/review/show/5371869594?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️4.23)
 - [GPT-3: The Ultimate Guide To Building NLP Products With OpenAI API](https://www.goodreads.com/review/show/5372423272?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️3.12)
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️4)
