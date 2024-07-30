@@ -198,6 +198,7 @@ Following are some of the technologies I frequently use:
 ### Last 10 books I read
 
 <!-- GOODREADS-LIST-READ:START -->
+- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers: Straight Talk on the Challenges of Entrepreneurship](https://www.goodreads.com/review/show/5101514523?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐️4.2)
 - [Way of the Wolf: Become a Master Closer with Straight Line Selling](https://www.goodreads.com/review/show/6345646962?utm_medium=api&utm_source=rss) by Jordan Belfort (⭐️3.95)
 - [GPT-3: Building Innovative NLP Products using LLMs](https://www.goodreads.com/review/show/5371869594?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️4.25)
 - [GPT-3: The Ultimate Guide To Building NLP Products With OpenAI API](https://www.goodreads.com/review/show/5372423272?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️3.12)
@@ -207,7 +208,6 @@ Following are some of the technologies I frequently use:
 - [Driven: The Never-Give-Up Roadmap to Massive Success](https://www.goodreads.com/review/show/4864836198?utm_medium=api&utm_source=rss) by Manny Khoshbin (⭐️4.09)
 - [Learning DevSecOps](https://www.goodreads.com/review/show/4619251070?utm_medium=api&utm_source=rss) by Michelle Ribeiro (⭐️4.25)
 - [Practical Security Automation and Testing: Tools and techniques for automated security scanning and testing in DevSecOps](https://www.goodreads.com/review/show/4619194067?utm_medium=api&utm_source=rss) by Tony Hsiang-Chih Hsu (⭐️3.2)
-- [Container Security: Fundamental Technology Concepts that Protect Containerized Applications](https://www.goodreads.com/review/show/4619189465?utm_medium=api&utm_source=rss) by Liz Rice (⭐️4.52)
 <!-- GOODREADS-LIST-READ:END -->
 
 ### Bucket list and/or books that I paused reading
