@@ -190,7 +190,7 @@ Following are some of the technologies I frequently use:
 
 <!-- GOODREADS-LIST-CURRENTLY-READING:START -->
 - [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](https://www.goodreads.com/review/show/6360222006?utm_medium=api&utm_source=rss) by Geoffrey A. Moore (⭐️4)
-- [The Startup Checklist: 25 Steps to a Scalable, High-Growth Business](https://www.goodreads.com/review/show/6351767972?utm_medium=api&utm_source=rss) by David S.  Rose (⭐️4.09)
+- [The Startup Checklist: 25 Steps to a Scalable, High-Growth Business](https://www.goodreads.com/review/show/6351767972?utm_medium=api&utm_source=rss) by David S.  Rose (⭐️4.1)
 - [High Output Management](https://www.goodreads.com/review/show/6345653068?utm_medium=api&utm_source=rss) by Andrew S. Grove (⭐️4.27)
 <!-- GOODREADS-LIST-CURRENTLY-READING:END -->
 
