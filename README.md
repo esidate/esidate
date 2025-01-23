@@ -212,7 +212,7 @@ Following are some of the technologies I frequently use:
 ### Bucket list and/or books that I paused reading
 
 <!-- GOODREADS-LIST-TO-READ:START -->
-- [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/review/show/6418624169?utm_medium=api&utm_source=rss) by David Deutsch (⭐️4.16)
+- [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/review/show/6418624169?utm_medium=api&utm_source=rss) by David Deutsch (⭐️4.17)
 - [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto)](https://www.goodreads.com/review/show/6418578580?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
 - [The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/review/show/6418578144?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️3.96)
 - [The Bed of Procrustes: Philosophical and Practical Aphorisms](https://www.goodreads.com/review/show/6418577857?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️3.77)
