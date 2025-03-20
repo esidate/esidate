@@ -199,7 +199,7 @@ Following are some of the technologies I frequently use:
 <!-- GOODREADS-LIST-READ:START -->
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/review/show/5101514523?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐️4.2)
 - [Way of the Wolf: Become a Master Closer with Straight Line Selling](https://www.goodreads.com/review/show/6345646962?utm_medium=api&utm_source=rss) by Jordan Belfort (⭐️3.94)
-- [GPT-3: Building Innovative NLP Products using LLMs](https://www.goodreads.com/review/show/5371869594?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️4.22)
+- [GPT-3: Building Innovative NLP Products using LLMs](https://www.goodreads.com/review/show/5371869594?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️4.19)
 - [GPT-3: The Ultimate Guide To Building NLP Products With OpenAI API](https://www.goodreads.com/review/show/5372423272?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️3.12)
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️4)
 - [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/5068355865?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️4.06)
