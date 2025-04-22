@@ -217,7 +217,7 @@ Following are some of the technologies I frequently use:
 - [The Black Swan: The Impact of the Highly Improbable](https://www.goodreads.com/review/show/6418578144?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️3.96)
 - [The Bed of Procrustes: Philosophical and Practical Aphorisms](https://www.goodreads.com/review/show/6418577857?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️3.77)
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/6418577121?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
-- [Skin in the Game: The Hidden Asymmetries in Daily Life](https://www.goodreads.com/review/show/6418576687?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️3.88)
+- [Skin in the Game: The Hidden Asymmetries in Daily Life](https://www.goodreads.com/review/show/6418576687?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️3.87)
 - [The Rational Optimist: How Prosperity Evolves](https://www.goodreads.com/review/show/6418571206?utm_medium=api&utm_source=rss) by Matt Ridley (⭐️3.94)
 - [How Innovation Works: Serendipity, Energy and the Saving of Time](https://www.goodreads.com/review/show/6418561141?utm_medium=api&utm_source=rss) by Matt Ridley (⭐️4.07)
 - [Hackers & Painters: Big Ideas from the Computer Age](https://www.goodreads.com/review/show/5147011663?utm_medium=api&utm_source=rss) by Paul    Graham (⭐️4.03)
