@@ -197,7 +197,7 @@ Following are some of the technologies I frequently use:
 ### Last 10 books I read
 
 <!-- GOODREADS-LIST-READ:START -->
-- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers―Straight Talk on the Challenges of Entrepreneurship](https://www.goodreads.com/review/show/5101514523?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐️4.19)
+- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers―Straight Talk on the Challenges of Entrepreneurship](https://www.goodreads.com/review/show/5101514523?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐️4.2)
 - [Way of the Wolf: Become a Master Closer with Straight Line Selling](https://www.goodreads.com/review/show/6345646962?utm_medium=api&utm_source=rss) by Jordan Belfort (⭐️3.94)
 - [GPT-3: Building Innovative NLP Products using LLMs](https://www.goodreads.com/review/show/5371869594?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️4.17)
 - [GPT-3: The Ultimate Guide To Building NLP Products With OpenAI API](https://www.goodreads.com/review/show/5372423272?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️3.12)
