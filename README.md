@@ -219,7 +219,7 @@ Following are some of the technologies I frequently use:
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/6418577121?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.08)
 - [Skin in the Game: The Hidden Asymmetries in Daily Life](https://www.goodreads.com/review/show/6418576687?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️3.88)
 - [The Rational Optimist: How Prosperity Evolves](https://www.goodreads.com/review/show/6418571206?utm_medium=api&utm_source=rss) by Matt Ridley (⭐️3.93)
-- [How Innovation Works: Serendipity, Energy and the Saving of Time](https://www.goodreads.com/review/show/6418561141?utm_medium=api&utm_source=rss) by Matt Ridley (⭐️4.08)
+- [How Innovation Works: Serendipity, Energy and the Saving of Time](https://www.goodreads.com/review/show/6418561141?utm_medium=api&utm_source=rss) by Matt Ridley (⭐️4.07)
 - [Hackers and Painters: Big Ideas from the Computer Age](https://www.goodreads.com/review/show/5147011663?utm_medium=api&utm_source=rss) by Paul    Graham (⭐️4.03)
 - [What You Do Is Who You Are: How to Create Your Business Culture](https://www.goodreads.com/review/show/5118368919?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐️3.96)
 <!-- GOODREADS-LIST-TO-READ:END -->
