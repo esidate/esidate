@@ -1,7 +1,5 @@
 ![header](https://user-images.githubusercontent.com/59918011/188706237-350b85a4-f2b8-43e1-9ef1-a853a41cc3d9.png)
 
-![](https://komarev.com/ghpvc/?username=esidate&color=brightgreen)
-
 ### Hello 👋, I'm [El Mahdi Sidate](https://www.linkedin.com/in/el-mahdi-sidate/)!
 
 CTO & Co-Founder of [SecDojo](https://www.sec-dojo.com/). I'm passionate about AI, Startups and Cybersecurity.
