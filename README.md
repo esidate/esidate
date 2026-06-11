@@ -196,13 +196,13 @@ Following are some of the technologies I frequently use:
 
 <!-- GOODREADS-LIST-READ:START -->
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers―Straight Talk on the Challenges of Entrepreneurship](https://www.goodreads.com/review/show/5101514523?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐️4.18)
-- [Way of the Wolf: Become a Master Closer with Straight Line Selling](https://www.goodreads.com/review/show/6345646962?utm_medium=api&utm_source=rss) by Jordan Belfort (⭐️3.92)
+- [Way of the Wolf: Become a Master Closer with Straight Line Selling](https://www.goodreads.com/review/show/6345646962?utm_medium=api&utm_source=rss) by Jordan Belfort (⭐️3.93)
 - [GPT-3: Building Innovative NLP Products using LLMs](https://www.goodreads.com/review/show/5371869594?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️4.14)
 - [GPT-3: The Ultimate Guide To Building NLP Products With OpenAI API](https://www.goodreads.com/review/show/5372423272?utm_medium=api&utm_source=rss) by Sandra Kublik (⭐️3.12)
 - [La gestion d'entreprise pas à pas](https://www.goodreads.com/review/show/4559081495?utm_medium=api&utm_source=rss) by Philippe Guillermic (⭐️4)
 - [Practical Cloud Security: A Guide for Secure Design and Deployment](https://www.goodreads.com/review/show/5068355865?utm_medium=api&utm_source=rss) by Chris Dotson (⭐️4.03)
 - [MAKE: Bootstrapper&apos;s Handbook](https://www.goodreads.com/review/show/5068344025?utm_medium=api&utm_source=rss) by Pieter Levels (⭐️4.07)
-- [Driven: The Never-Give-Up Roadmap to Massive Success](https://www.goodreads.com/review/show/4864836198?utm_medium=api&utm_source=rss) by Manny Khoshbin (⭐️4.09)
+- [Driven: The Never-Give-Up Roadmap to Massive Success](https://www.goodreads.com/review/show/4864836198?utm_medium=api&utm_source=rss) by Manny Khoshbin (⭐️4.1)
 - [Learning DevSecOps](https://www.goodreads.com/review/show/4619251070?utm_medium=api&utm_source=rss) by Michelle Ribeiro (⭐️4.25)
 - [Practical Security Automation and Testing: Tools and techniques for automated security scanning and testing in DevSecOps](https://www.goodreads.com/review/show/4619194067?utm_medium=api&utm_source=rss) by Tony Hsiang-Chih Hsu (⭐️3.2)
 <!-- GOODREADS-LIST-READ:END -->
